@@ -1,0 +1,5 @@
+# Compiled binaries
+main_tong
+*.o
+*.out
+a.out
