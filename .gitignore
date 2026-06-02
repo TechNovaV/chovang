@@ -1,0 +1,7 @@
+# Compiled binaries
+main_tong
+*.o
+*.out
+a.out
+ucln
+main_tong
